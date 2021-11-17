@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "American Politics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "67da2ac7-bc19-9e46-b164-b554a1db7f33"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "American Political Thought",
+  "course_description": "This course surveys American political thought from the colonial era to the present. Required readings are drawn mainly from primary sources, including writings of politicians, activists, and theorists. Topics include the relationship between religion and politics, rights, federalism, national identity, republicanism versus liberalism, the relationship of subordinated groups to mainstream political discourse, and the role of ideas in politics. We will analyze the simultaneous radicalism and weakness of American liberalism, how the revolutionary ideas of freedom and equality run up against persistent patterns of inequality. Graduate students are expected to pursue the subject in greater depth through suggested reading and individual research.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "17.038",
+  "primary_course_number": "17.037",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
